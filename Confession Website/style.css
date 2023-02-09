@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+   color: white;
+}
+body{
+    /* background-color: red; */
+}
+.lll{
+    margin: 3rem 10rem;
+    
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     height: auto;
+}
+textarea{
+    height: 246px;
+}
+.btn{
+    width: 11rem;
+}
+.likeCount{
+    text-align: center;
+}
+.heartOne{
+    cursor: pointer;
+}
+.heartTwo{
+    cursor: pointer;
+}
+.heartThree{
+    cursor: pointer;
+}
